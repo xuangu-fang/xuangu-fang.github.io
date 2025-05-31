@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/shikai_new.jpg"
+  avatar           : "shikai_new.jpg"
   name             : "Shikai Fang 方榯楷"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Researcher at Microsoft Research Asia"
+  bio              : "Senior Researcher at \n Microsoft Research Asia"
   location         : #"Earth"
   employer         : # "Microsoft Research Asia"
   uri              : # URL

@@ -50,20 +50,6 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 </div>
 ---
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="/images/pubs/funbat.png" alt="fun-bat" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
-  <div>
-    <b>Functional Bayesian Tucker Decomposition for Continuous-indexed Tensor</b><br>
-    <span style="font-weight:500;"> <b>Shikai Fang</b>, Xin Yu, Zheng Wang, Shibo Li, Mike Kirby, Shandian Zhe,</span><br>
-    <b>ICLR 2024</b>
-    <a href="https://arxiv.org/abs/2311.04829">[arXiv]</a>
-    <a href="https://github.com/xuangu-fang/Functional-Bayesian-Tucker-Decomposition">[code]</a>
-    <a href="/files/ICLR-2024-FunBat-talk.pdf">[slides]</a>
-    <br>
-    <i> TL;DR: [Generative model] Functional Tucker Decomposition for Physical Signal reconstruction </i>
-  </div>
-</div>
----
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <img src="/images/pubs/gphf.png" alt="gphf" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
   <div>
     <b>Solving High Frequency and Multi-Scale PDEs with Gaussian Processes</b><br>
@@ -75,6 +61,20 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <a href="https://zhuanlan.zhihu.com/p/702160584">[知乎]</a>
     <br>
     <i> TL;DR: [AI4Phy] Gausisan Process based surrogate model for High-freq. PDE </i>
+  </div>
+</div>
+---
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="/images/pubs/funbat.png" alt="fun-bat" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div>
+    <b>Functional Bayesian Tucker Decomposition for Continuous-indexed Tensor</b><br>
+    <span style="font-weight:500;"> <b>Shikai Fang</b>, Xin Yu, Zheng Wang, Shibo Li, Mike Kirby, Shandian Zhe,</span><br>
+    <b>ICLR 2024</b>
+    <a href="https://arxiv.org/abs/2311.04829">[arXiv]</a>
+    <a href="https://github.com/xuangu-fang/Functional-Bayesian-Tucker-Decomposition">[code]</a>
+    <a href="/files/ICLR-2024-FunBat-talk.pdf">[slides]</a>
+    <br>
+    <i> TL;DR: [Generative model] Functional Tucker Decomposition for Physical Signal reconstruction </i>
   </div>
 </div>
 ---
@@ -115,7 +115,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <a href="https://github.com/xuangu-fang/Bayesian-Continuous-Time-Tucker-Decomposition">[code]</a>
     <a href="/files/ICML2022-BCTT-v1.1-fang.pdf">[slides]</a>
     <br>
-    <i> TL;DR: [Tensor Learning] Continuous-Time Tucker for Temporal Tensor Learning </i>
+    <i> TL;DR: [Tensor Learning] Continuous-Time Tucker Decomposition </i>
   </div>
 </div>
 

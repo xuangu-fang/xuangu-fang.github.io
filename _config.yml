@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shikai_new.jpg"
+  avatar           : "/images/shikai_new.jpg"
   name             : "Shikai Fang 方榯楷"
   pronouns         : # example: "she/her"  
   bio              : "Senior Researcher at <br> Microsoft Research Asia"
   location         : #"Earth"
   employer         : # "Microsoft Research Asia"
   uri              : # URL
-  email            : "fangshikai@microsoft.com" 
+  email            : "xuangufang@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -74,7 +74,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "https://www.zhihu.com/people/fang-xuan-gu-19"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

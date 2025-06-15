@@ -12,7 +12,7 @@ I'm currently a **Senior Researcher** at **Microsoft Research Asia**. I received
 ## Research Interests
 - **Bayesian Methods and Generative Models**
 - **Scientific Machine Learning for Physical Signal** 
-- **Tensor Learning**
+- **Tensor Learning, Online Learning**
 - **Advanced Time Series (Tensor-valued Time Series, Spatial-Temporal data)**
 
 
@@ -43,6 +43,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <b>ICML 2024</b> <span style="color:red;"> Spotlight! (top 3%) </span><br>
     <a href="https://arxiv.org/abs/2308.14906">[arXiv]</a>
     <a href="https://github.com/xuangu-fang/BayOTIDE">[code]</a>
+    <a href="files/ICML2024-BayOTIDE_slides_long.pdf">[slides]</a>
     <a href="https://zhuanlan.zhihu.com/p/709630460">[知乎]</a>
     <br>
     <i> TL;DR: [Time Series] Efficient online imputation for functional multivariate time series.</i>
@@ -74,7 +75,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <a href="https://github.com/xuangu-fang/Functional-Bayesian-Tucker-Decomposition">[code]</a>
     <a href="/files/ICLR-2024-FunBat-talk.pdf">[slides]</a>
     <br>
-    <i> TL;DR: [Generative model] Functional Tucker Decomposition for Physical Signal reconstruction </i>
+    <i> TL;DR: [Tensor Learning] Functional Tucker Decomposition for Physical Signal reconstruction </i>
   </div>
 </div>
 ---
@@ -88,7 +89,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <a href="https://github.com/xuangu-fang/Streaming-Factor-Trajectory-Learning">[code]</a>
     <a href="files/SFTL_slides_long.pdf">[slides]</a>
     <br>
-    <i> TL;DR: [Generative model] Functional Tucker Decomposition for Physical Signal reconstruction </i>
+    <i> TL;DR: [Tensor & Time Series] Functional Tucker Decomposition for Physical Signal reconstruction </i>
   </div>
 </div>
 ---
@@ -101,7 +102,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <a href="https://arxiv.org/abs/2310.19666">[arXiv]</a>
     <a href="https://github.com/wzhut/Dynamic-Tensor-Decomposition-via-Neural-Diffusion-Reaction-Processes">[code]</a>
     <br>
-    <i> TL;DR: [Generative model] Temporal Tensor <=> Diffusion-Reaction Process on Hypergraph </i>
+    <i> TL;DR: [Tensor & Time Series] Temporal Tensor <=> Diffusion-Reaction Process on Hypergraph </i>
   </div>
 </div>
 ---
@@ -115,7 +116,35 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <a href="https://github.com/xuangu-fang/Bayesian-Continuous-Time-Tucker-Decomposition">[code]</a>
     <a href="/files/ICML2022-BCTT-v1.1-fang.pdf">[slides]</a>
     <br>
-    <i> TL;DR: [Tensor Learning] Continuous-Time Tucker Decomposition </i>
+    <i> TL;DR: [Tensor & Time Series] Continuous-Time Tucker Decomposition </i>
+  </div>
+</div>
+---
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="/images/pubs/SDBT.png" alt="bctt" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div>
+    <b>Streaming Bayesian Deep Tensor Factorization</b><br>
+    <span style="font-weight:500;"> <b>Shikai Fang</b>, Zheng Wang, Zhimeng Pan, Ji Liu, and Shandian Zhe</span><br>
+    <b>ICML 2021 </b> 
+    <a href="http://proceedings.mlr.press/v139/fang21d/fang21d.pdf">[paper]</a>
+    <a href="https://github.com/xuangu-fang/Streaming-Bayesian-Deep-Tensor">[code]</a>
+    <a href="http://proceedings.mlr.press/v139/fang21d/fang21d-supp.pdf">[supp]</a>
+    <br>
+    <i> TL;DR: [Tensor & Online learning] Bayesian deep learning + Tensor </i>
+  </div>
+</div>
+---
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <img src="/images/pubs/BASS-Tucker.png" alt="bctt" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div>
+    <b>Bayesian Streaming Sparse Tucker Decomposition</b><br>
+    <span style="font-weight:500;"> <b>Shikai Fang</b>, Robert. M. Kirby, and Shandian Zhe</span><br>
+    <b>UAI 2021 </b> 
+    <a href="https://proceedings.mlr.press/v161/fang21b/fang21b.pdf">[paper]</a>
+    <a href="https://github.com/xuangu-fang/Bayesian-streaming-sparse-tucker">[code]</a>
+    <a href="https://users.cs.utah.edu/file/UAI2021_BASS_supp.pdf">[supp]</a>
+    <br>
+    <i> TL;DR: [Tensor & Online learning] Sparse Tucker + Online Learning </i>
   </div>
 </div>
 

@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Roadmap"
+permalink: /roadmap/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="roadmap-intro">
+  <p>Welcome to my research roadmap page. Here you'll find detailed insights and strategic planning for my research directions, including Bayesian learning for high-order data and other key areas of interest.</p>
+</div>
+
+{% for post in site.roadmap %}
+  {% unless post.path contains '.zh.' %}
+    {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+
+
+
+
+

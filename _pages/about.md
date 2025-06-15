@@ -12,7 +12,7 @@ I'm currently a **Senior Researcher** at **Microsoft Research Asia**. I received
 ## Research Interests
 - **Bayesian Methods and Generative Models**
 - **Scientific Machine Learning for Physical Signal** 
-- **Tensor Learning, Online Learning**
+- **Tensor Learnin (low-rank representation for high-order data)**
 - **Advanced Time Series (Tensor-valued Time Series, Spatial-Temporal data)**
 
 
@@ -35,9 +35,9 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 
 ## Selected Publications
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="/images/pubs/bayotide.png" alt="bayotide" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
-  <div>
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/bayotide.png" alt="bayotide" style="width:300px; min-width:220px; max-height:169px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="max-width: 70%;">
     <b>BayOTIDE: Bayesian Online Multivariate Time series Imputation with functional decomposition</b><br>
     <span style="font-weight:500;"> <b>Shikai Fang</b>, Qingsong Wen, Yingtao Luo, Shandian Zhe, Liang Sun</span><br>
     <b>ICML 2024</b> <span style="color:red;"> Spotlight! (top 3%) </span><br>
@@ -50,9 +50,9 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
   </div>
 </div>
 ---
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="/images/pubs/gphf.png" alt="gphf" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
-  <div>
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/gphf.png" alt="gphf" style="width:300px; min-width:220px; max-height:169px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="max-width: 70%;">
     <b>Solving High Frequency and Multi-Scale PDEs with Gaussian Processes</b><br>
     <span style="font-weight:500;"> <b>Shikai Fang*</b>,  Madison Cooley*, Da Long*, Shibo Li, Robert Kirby, Shandian Zhe</span><br>
     <b>ICLR 2024</b>
@@ -65,9 +65,9 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
   </div>
 </div>
 ---
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="/images/pubs/funbat.png" alt="fun-bat" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
-  <div>
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/funbat.png" alt="fun-bat" style="width:300px; min-width:220px; max-height:169px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="max-width: 70%;">
     <b>Functional Bayesian Tucker Decomposition for Continuous-indexed Tensor</b><br>
     <span style="font-weight:500;"> <b>Shikai Fang</b>, Xin Yu, Zheng Wang, Shibo Li, Mike Kirby, Shandian Zhe,</span><br>
     <b>ICLR 2024</b>
@@ -79,9 +79,9 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
   </div>
 </div>
 ---
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="/images/pubs/sftl.png" alt="sftl" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
-  <div>
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/sftl.png" alt="sftl" style="width:300px; min-width:220px; max-height:169px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="max-width: 70%;">
     <b>Streaming Factor Trajectory Learning for Temporal Tensor Decomposition</b><br>
     <span style="font-weight:500;"> <b>Shikai Fang</b>, Xin Yu, Shibo Li, Zheng Wang, Robert Kirby, Shandian Zhe</span><br>
     <b>NeurIPS 2023 </b> <span style="color:red;"></span><br>
@@ -93,22 +93,35 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
   </div>
 </div>
 ---
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="/images/pubs/demote.png" alt="demote" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
-  <div>
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/demote.png" alt="demote" style="width:300px; min-width:220px; max-height:169px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="max-width: 70%;">
     <b>Dynamic Tensor Decomposition via Neural Diffusion-Reaction Processes</b><br>
-    <span style="font-weight:500;"> <b> Zheng Wang*, Shikai Fang</b>, Shibo Li, Shandian Zhe</span><br>
+    <span style="font-weight:500;">Zheng Wang*, <b>  Shikai Fang*</b>, Shibo Li, Shandian Zhe</span><br>
     <b>NeurIPS 2023 </b> <span style="color:red;">Spotlight! (top 10%) </span>
     <a href="https://arxiv.org/abs/2310.19666">[arXiv]</a>
     <a href="https://github.com/wzhut/Dynamic-Tensor-Decomposition-via-Neural-Diffusion-Reaction-Processes">[code]</a>
     <br>
-    <i> TL;DR: [Tensor & Time Series] Temporal Tensor <=> Diffusion-Reaction Process on Hypergraph </i>
+    <i> TL;DR:[Tensor & Time Series] Temporal Tensor <=> Diffusion-Reaction Process on Hypergraph </i>
   </div>
 </div>
 ---
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="/images/pubs/bctt.png" alt="bctt" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
-  <div>
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/csbi.png" alt="csbi" style="width:300px; min-width:220px; max-height:169px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="max-width: 70%;">
+    <b>Provably Convergent Schrodinger Bridge with Applications to Probabilistic Time Series Imputation</b><br>
+    <span style="font-weight:500;"> Yu Chen*, Wei Deng*,<b>Shikai Fang*</b>, Fengpei Li*, Tianjiao Nicole Yang, Yikai Zhang, Kashif Rasul, Shandian Zhe, Anderson Schneider, and Yuriy Nevmyvaka,</span><br>
+    <b>ICML 2023 </b> 
+    <a href="https://arxiv.org/pdf/2305.07247.pdf">[arXiv]</a>
+    <a href="https://github.com/morganstanley/MSML/tree/main/papers/Conditional_Schrodinger_Bridge_Imputation">[code]</a>
+    <br>
+    <i> TL;DR: [Generative & Time Series]  Schrodinger Bridge for Time Series Imputation </i>
+  </div>
+</div>
+---
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/bctt.png" alt="bctt" style="width:300px; min-width:220px; max-height:169px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="max-width: 70%;">
     <b>Bayesian Continuous-Time Tucker Decomposition</b><br>
     <span style="font-weight:500;"> <b>Shikai Fang</b>, Bayesian Continuous-Time Tucker Decomposition</span><br>
     <b>ICML 2022 </b> <span style="color:red;">Oral! (top 2%) </span>
@@ -120,9 +133,9 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
   </div>
 </div>
 ---
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="/images/pubs/SDBT.png" alt="bctt" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
-  <div>
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/SDBT.png" alt="bctt" style="width:300px; min-width:220px; max-height:169px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="max-width: 70%;">
     <b>Streaming Bayesian Deep Tensor Factorization</b><br>
     <span style="font-weight:500;"> <b>Shikai Fang</b>, Zheng Wang, Zhimeng Pan, Ji Liu, and Shandian Zhe</span><br>
     <b>ICML 2021 </b> 
@@ -134,9 +147,9 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
   </div>
 </div>
 ---
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <img src="/images/pubs/BASS-Tucker.png" alt="bctt" style="width:350px; min-width:280px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
-  <div>
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/BASS-Tucker-2.png" alt="bctt" style="width:300px; min-width:220px; max-height:169px; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="max-width: 70%;">
     <b>Bayesian Streaming Sparse Tucker Decomposition</b><br>
     <span style="font-weight:500;"> <b>Shikai Fang</b>, Robert. M. Kirby, and Shandian Zhe</span><br>
     <b>UAI 2021 </b> 

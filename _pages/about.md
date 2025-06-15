@@ -12,7 +12,7 @@ I'm currently a **Senior Researcher** at **Microsoft Research Asia**. I received
 ## Research Interests
 - **Bayesian Methods and Generative Models**
 - **Scientific Machine Learning for Physical Signal** 
-- **Tensor Learnin (low-rank representation for high-order data)**
+- **Tensor Learning (flexible low-rank representation for high-order data)**
 - **Advanced Time Series (Tensor-valued Time Series, Spatial-Temporal data)**
 
 
@@ -61,7 +61,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <a href="/files/ICLR-2024-HFGP-talk.pdf">[slides]</a>
     <a href="https://zhuanlan.zhihu.com/p/702160584">[知乎]</a>
     <br>
-    <i> TL;DR: [AI4Phy] Gausisan Process based surrogate model for High-freq. PDE </i>
+    <i> TL;DR: [AI4Phy & Bayesian] Gausisan Process based surrogate model for High-freq. PDE </i>
   </div>
 </div>
 ---
@@ -75,7 +75,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <a href="https://github.com/xuangu-fang/Functional-Bayesian-Tucker-Decomposition">[code]</a>
     <a href="/files/ICLR-2024-FunBat-talk.pdf">[slides]</a>
     <br>
-    <i> TL;DR: [Tensor Learning] Functional Tucker Decomposition for Physical Signal reconstruction </i>
+    <i> TL;DR: [Tensor & AI4Phy] Functional Tucker Decomposition for Physical Signal reconstruction </i>
   </div>
 </div>
 ---
@@ -89,7 +89,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <a href="https://github.com/xuangu-fang/Streaming-Factor-Trajectory-Learning">[code]</a>
     <a href="files/SFTL_slides_long.pdf">[slides]</a>
     <br>
-    <i> TL;DR: [Tensor & Time Series] Functional Tucker Decomposition for Physical Signal reconstruction </i>
+    <i> TL;DR: [Tensor & Time Series] Online Trajectory Learning for Tensor-Valued Time Series </i>
   </div>
 </div>
 ---
@@ -129,7 +129,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <a href="https://github.com/xuangu-fang/Bayesian-Continuous-Time-Tucker-Decomposition">[code]</a>
     <a href="/files/ICML2022-BCTT-v1.1-fang.pdf">[slides]</a>
     <br>
-    <i> TL;DR: [Tensor & Time Series] Continuous-Time Tucker Decomposition </i>
+    <i> TL;DR: [Tensor & Time Series] Continuous-Time Tucker Model for Tensor-Valued Time Series </i>
   </div>
 </div>
 ---

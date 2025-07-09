@@ -11,7 +11,8 @@ I'm currently a **Senior Researcher** at **Microsoft Research Asia**. I received
 
 ## Research Interests
 - **Bayesian Methods and Generative Models**
-- **Scientific Machine Learning for Physical Signal** 
+- **Scientific Machine Learning for Physical Simu & Signal Process** 
+- **Collaborative Multi-Agents**
 - **Tensor Learning (flexible low-rank representation for high-order data)**
 - **Advanced Time Series (Tensor-valued Time Series, Spatial-Temporal data)**
 
@@ -29,7 +30,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 
 
 ## News
-- **May 2025**: We release [R&D-Agent](https://github.com/microsoft/RD-Agent), which is verified by [OpenAI-MLE-Bench!](https://github.com/openai/mle-bench) as **Best MLE Agent** and got Star 5.8k+ stars on Github! !
+- **May 2025**: We release [R&D-Agent](https://github.com/microsoft/RD-Agent) [![GitHub Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent), which is verified by [OpenAI-MLE-Bench!](https://github.com/openai/mle-bench) as **Best MLE Agent**  ! !
 - **Spring 2025**: Two Papers accepted by KDD 2025 and ICLR 2025!
 - **May 2024**: I will join **Microsoft Research Asia** as a **Senior Researcher** in 2024 summer!
 

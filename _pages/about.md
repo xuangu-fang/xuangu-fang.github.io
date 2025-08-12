@@ -11,7 +11,7 @@ I'm currently a **Senior Researcher** at **Microsoft Research Asia**. I received
 
 ## Research Interests
 - **Bayesian Methods and Generative Models**
-- **Scientific Machine Learning for Physical Simu & Signal Process** 
+- **Scientific Machine Learning for Physical Simu. & Signal Process** 
 - **Collaborative Multi-Agents**
 - **Tensor Learning (flexible low-rank representation for high-order data)**
 - **Advanced Time Series (Tensor-valued Time Series, Spatial-Temporal data)**
@@ -23,19 +23,53 @@ I'm currently a **Senior Researcher** at **Microsoft Research Asia**. I received
  I've been involved in several research and start-up projects on AI + medical/bio scenarios. I own two first-author patents in [AIDD (AI for Drug Discovery)](https://www.nature.com/articles/d43747-021-00045-7), which contribute as core patents for a start-up that has raised over $10M+. 
 
 - **AI4Finance:**
-I have quite experiences of AI-based quantitative trading/pricing strategy development during the internship/competition in top hedge fund and investment bank ([Morgan Stanley](www.morganstanley.com), [World Quant](www.worldquant.com) and [UBS](www.ubs.com) etc.). During the Microsoft I'm a core contributor of ([MarS](https://github.com/microsoft/MarS/tree/main))(github 1.4K star), an open-source financial market simulation engine powered by generative foundation Model.
+I have quite experiences of AI-based quantitative trading/pricing strategy development during the internship/competition in top hedge fund and investment bank ([Morgan Stanley](www.morganstanley.com), [World Quant](www.worldquant.com) and [UBS](www.ubs.com) etc.). During the Microsoft I'm a core contributor of ([MarS](https://github.com/microsoft/MarS/tree/main))[![GitHub Stars](https://img.shields.io/github/stars/microsoft/MarS?style=social)](https://github.com/microsoft/MarS), an open-source financial market simulation engine powered by generative foundation Model.
 
 - **Others:**
 I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with 15,000 followers on Zhihu (知乎) — Chinese Quora. See my [Zhihu page](https://www.zhihu.com/people/fang-xuan-gu-19).
 
 
 ## News
+- **Sep. 2025**: I will join **Zhejiang University** as an **Assistant Professor** in 2025 fall!
 - **May 2025**: We release [R&D-Agent](https://github.com/microsoft/RD-Agent) [![GitHub Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent), which is verified by [OpenAI-MLE-Bench!](https://github.com/openai/mle-bench) as **Best MLE Agent**  ! !
-- **Spring 2025**: Two Papers accepted by KDD 2025 and ICLR 2025!
+- **Spring 2025**: Three Papers accepted by KDD 2025, ICLR 2025 and JASA!
 - **May 2024**: I will join **Microsoft Research Asia** as a **Senior Researcher** in 2024 summer!
 
 ## Selected Publications
-
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/RD_logo.png" alt="MarS" style="flex-basis: 33.33%; max-width: 33.33%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="flex-basis: 66.67%; max-width: 66.67%;">
+    <b>R&D-Agent: Automating Data-Driven AI Solution Building Through LLM-Powered Automated Research, Development, and Evolution</b><br>
+    <span style="font-weight:500;"> Xu Yang, Xiao Yang, <b>Shikai Fang</b>, Bowen Xian, Yuante Li, Jian Wang, Minrui Xu, Haoran Pan, Xinpeng Hong, Weiqing Liu, Yelong Shen, Weizhu Chen, Jiang Bian</span><br>
+    <a href="https://arxiv.org/abs/2505.14738">[arXiv]</a>
+    <a href="https://github.com/microsoft/RD-Agent">[code]</a>
+    <a href="https://github.com/microsoft/RD-Agent" target="_blank" rel="noopener noreferrer" style="margin-left:6px; vertical-align: middle;">
+      <img src="https://img.shields.io/github/stars/microsoft/RD-Agent?style=social" alt="GitHub Stars">
+    </a>
+    <a href="https://mp.weixin.qq.com/s/lucuHG7AiD-M3l5te8YH4w">[公众号]</a>
+    <br>
+    <i> TL;DR: [LLM Agent] AI-driven AI — Autonomous R&D Evolving Agents .</i>
+  </div>
+</div>
+---
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/MarS_new.png" alt="MarS" style="flex-basis: 33.33%; max-width: 33.33%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="flex-basis: 66.67%; max-width: 66.67%;">
+    <b>MarS: A Financial Market Simulation Engine Powered by Generative Foundation Model</b><br>
+    <span style="font-weight:500;"> Junjie Li*, Yang Liu*, Weiqing Liu†, <b>Shikai Fang</b>, Lewen Wang, Chang Xu, Jiang Bian</span><br>
+    <b>ICLR 2025</b><br>
+    <a href="https://arxiv.org/abs/2409.0748">[arXiv]</a>
+    <a href="https://github.com/microsoft/MarS/tree/main">[code]</a>
+    <a href="https://github.com/microsoft/MarS" target="_blank" rel="noopener noreferrer" style="margin-left:6px; vertical-align: middle;">
+      <img src="https://img.shields.io/github/stars/microsoft/MarS?style=social" alt="GitHub Stars">
+    </a>
+    <a href="https://mars-lmm.github.io/">[Page]</a>
+    <a href="https://mp.weixin.qq.com/s/X76-fypet4o0D3ZbeulXUQ">[公众号]</a>
+    <br>
+    <i> TL;DR: [Finance & Foundation Model] Large Market Model for generative simulation of financial market.</i>
+  </div>
+</div>
+---
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
   <img src="/images/pubs/bayotide.png" alt="bayotide" style="flex-basis: 33.33%; max-width: 33.33%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
   <div style="flex-basis: 66.67%; max-width: 66.67%;">

@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a **Senior Researcher** at **Microsoft Research Asia**. I received my Ph.D. in Computer Science in Summer 2024 from the University of Utah. Prior to that, I earned my B.S. in both Statistics and Computer Science (double degree) from the School of the Gifted Young (少年班学院) at the University of Science and Technology of China (USTC) in 2018, and my Master's in Computer Science from Temple University in 2019.
+I am a tenure-track **Assistant Professor** (百人计划研究员) at **Zhejiang University**. I was a **Senior Researcher** at **Microsoft Research Asia**. I received my Ph.D. in Computer Science in Summer 2024 from the University of Utah. Prior to that, I earned my B.S. in both Statistics and Computer Science (double degree) from the School of the Gifted Young (少年班学院) at the University of Science and Technology of China (USTC) in 2018, and my Master's in Computer Science from Temple University in 2019.
 
 ## Research Interests
 - **Bayesian Methods and Generative Models**
 - **Scientific Machine Learning for Physical Simu. & Signal Process** 
 - **Collaborative Multi-Agents**
 - **Tensor Learning (flexible low-rank representation for high-order data)**
-- **Advanced Time Series (Tensor-valued Time Series, Spatial-Temporal data)**
+- **Advanced Time Series (High-Dim Tensor Time Series, Spatial-Temporal data)**
 
 
 
@@ -30,7 +30,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 
 
 ## News
-- **Sep. 2025**: I will join **Zhejiang University** as an **Assistant Professor** in 2025 fall!
+- **Sep. 2025**: I will join **Zhejiang University** as a **tenure-track Assistant Professor**（百人计划研究员） in 2025 fall!
 - **May 2025**: We release [R&D-Agent](https://github.com/microsoft/RD-Agent) [![GitHub Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent), which is verified by [OpenAI-MLE-Bench!](https://github.com/openai/mle-bench) as **Best MLE Agent**  ! !
 - **Spring 2025**: Three Papers accepted by KDD 2025, ICLR 2025 and JASA!
 - **May 2024**: I will join **Microsoft Research Asia** as a **Senior Researcher** in 2024 summer!

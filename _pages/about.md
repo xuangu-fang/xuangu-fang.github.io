@@ -30,12 +30,39 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 
 
 ## News
+- **Sep. 2025**: Two Papers on Generative Physical Modeling and Functional Tensor got Accepted by NeurIPS 2025! Great Congratulations to [Panqi](https://ieeexplore.ieee.org/author/291710859546973) and [Yifan](https://scholar.google.com/citations?user=CzI4XVIAAAAJ&hl=zh-CN) (my intern students) to get theri first NeurIPS!
 - **Sep. 2025**: I will join **Zhejiang University** as a **tenure-track Assistant Professor**（百人计划研究员） in 2025 fall!
 - **May 2025**: We release [R&D-Agent](https://github.com/microsoft/RD-Agent) [![GitHub Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent), which is verified by [OpenAI-MLE-Bench!](https://github.com/openai/mle-bench) as **Best MLE Agent**  ! !
 - **Spring 2025**: Three Papers accepted by KDD 2025, ICLR 2025 and JASA!
 - **May 2024**: I will join **Microsoft Research Asia** as a **Senior Researcher** in 2024 summer!
 
 ## Selected Publications
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/SDIFT.png" alt="MarS" style="flex-basis: 33.33%; max-width: 33.33%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="flex-basis: 66.67%; max-width: 66.67%;">
+    <b>Generating Full-field Evolution of Physical Dynamics from Irregular Sparse Observations</b><br>
+    <span style="font-weight:500;">  Panqi Chen, Yifan Sun, Lei Cheng, Yang Yang, Weichang Li, Yang Liu, Weiqing Liu, Jiang Bian, <b>Shikai Fang</b>  </span><br>
+    <b>NeurIPS 2025</b><br>
+    <a href="https://arxiv.org/abs/2505.09284">[arXiv]</a>
+    <a href="https://github.com/OceanSTARLab/SDIFT">[code]</a>
+    <br>
+    <i> TL;DR: [GenAI & AI4Phy] Generation as reconstruction and forecasting for off-grid sparse physical dynamics</i>
+  </div>
+</div>
+---
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/CATTE.png" alt="MarS" style="flex-basis: 33.33%; max-width: 33.33%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="flex-basis: 66.67%; max-width: 66.67%;">
+    <b>CATTE:Functional Complexity-adaptive Temporal Tensor Decomposition</b><br>
+    <span style="font-weight:500;">  Panqi Chen, Lei Cheng, Jianlong Li, Weichang Li, Weiqing Liu, Jiang Bian, <b>Shikai Fang</b>  </span><br>
+    <b>NeurIPS 2025</b><br>
+    <a href="https://arxiv.org/abs/2502.06164">[arXiv]</a>
+    <a href="https://github.com/OceanSTARLab/CATTE">[code]</a>
+    <br>
+    <i> TL;DR: [Tensor & AI4Phy] Rank-adaptive trajectory learning for physical tensor time series</i>
+  </div>
+</div>
+---
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
   <img src="/images/pubs/RD_logo.png" alt="MarS" style="flex-basis: 33.33%; max-width: 33.33%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
   <div style="flex-basis: 66.67%; max-width: 66.67%;">
@@ -58,7 +85,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <b>MarS: A Financial Market Simulation Engine Powered by Generative Foundation Model</b><br>
     <span style="font-weight:500;"> Junjie Li*, Yang Liu*, Weiqing Liu†, <b>Shikai Fang</b>, Lewen Wang, Chang Xu, Jiang Bian</span><br>
     <b>ICLR 2025</b><br>
-    <a href="https://arxiv.org/abs/2409.0748">[arXiv]</a>
+    <a href="https://arxiv.org/abs/2409.07486">[arXiv]</a>
     <a href="https://github.com/microsoft/MarS/tree/main">[code]</a>
     <a href="https://github.com/microsoft/MarS" target="_blank" rel="noopener noreferrer" style="margin-left:6px; vertical-align: middle;">
       <img src="https://img.shields.io/github/stars/microsoft/MarS?style=social" alt="GitHub Stars">

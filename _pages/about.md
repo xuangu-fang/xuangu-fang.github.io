@@ -30,7 +30,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 
 
 ## News
-- **Sep. 2025**: Two Papers on Generative Physical Modeling and Functional Tensor got Accepted by NeurIPS 2025! Great Congratulations to [Panqi](https://ieeexplore.ieee.org/author/291710859546973) and [Yifan](https://scholar.google.com/citations?user=CzI4XVIAAAAJ&hl=zh-CN) (my intern students) to get theri first NeurIPS!
+- **Sep. 2025**: Two Papers on Generative Physical Modeling and Functional Tensor got Accepted by NeurIPS 2025! Great Congratulations to my interns: [Panqi](https://ieeexplore.ieee.org/author/291710859546973) and [Yifan](https://scholar.google.com/citations?user=CzI4XVIAAAAJ&hl=zh-CN) to get theri first NeurIPS!
 - **Sep. 2025**: I will join **Zhejiang University** as a **tenure-track Assistant Professor**（百人计划研究员） in 2025 fall!
 - **May 2025**: We release [R&D-Agent](https://github.com/microsoft/RD-Agent) [![GitHub Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent), which is verified by [OpenAI-MLE-Bench!](https://github.com/openai/mle-bench) as **Best MLE Agent**  ! !
 - **Spring 2025**: Three Papers accepted by KDD 2025, ICLR 2025 and JASA!

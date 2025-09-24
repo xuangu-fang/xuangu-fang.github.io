@@ -23,14 +23,14 @@ I am a tenure-track **Assistant Professor** (百人计划研究员) at **Zhejian
  I've been involved in several research and start-up projects on AI + medical/bio scenarios. I own two first-author patents in [AIDD (AI for Drug Discovery)](https://www.nature.com/articles/d43747-021-00045-7), which contribute as core patents for a start-up that has raised over $10M+. 
 
 - **AI4Finance:**
-I have quite experiences of AI-based quantitative trading/pricing strategy development during the internship/competition in top hedge fund and investment bank ([Morgan Stanley](www.morganstanley.com), [World Quant](www.worldquant.com) and [UBS](www.ubs.com) etc.). During the Microsoft I'm a core contributor of ([MarS](https://github.com/microsoft/MarS/tree/main))[![GitHub Stars](https://img.shields.io/github/stars/microsoft/MarS?style=social)](https://github.com/microsoft/MarS), an open-source financial market simulation engine powered by generative foundation Model.
+I have quite experiences of AI-based quantitative trading/pricing strategy development during the internship/competition in top hedge fund and investment bank ([Morgan Stanley](www.morganstanley.com), [World Quant](www.worldquant.com) and [UBS](www.ubs.com) etc.). During the Microsoft I'm a core contributor of [MarS](https://github.com/microsoft/MarS/tree/main)[![GitHub Stars](https://img.shields.io/github/stars/microsoft/MarS?style=social)](https://github.com/microsoft/MarS), an open-source financial market simulation engine powered by generative foundation Model.
 
 - **Others:**
 I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with 15,000 followers on Zhihu (知乎) — Chinese Quora. See my [Zhihu page](https://www.zhihu.com/people/fang-xuan-gu-19).
 
 
 ## News
-- **Sep. 2025**: Two Papers Accepted by NeurIPS 2025! Great Congratulations to my interns: [Panqi](https://ieeexplore.ieee.org/author/291710859546973) and [Yifan](https://scholar.google.com/citations?user=CzI4XVIAAAAJ&hl=zh-CN) to get theri first NeurIPS!
+- **Sep. 2025**: Two Papers Accepted by NeurIPS 2025! Great Congratulations to my interns: [Panqi](https://ieeexplore.ieee.org/author/291710859546973) and [Yifan](https://scholar.google.com/citations?user=CzI4XVIAAAAJ&hl=zh-CN) to get their first NeurIPS! 
 - **Sep. 2025**: I will join **Zhejiang University** as a **tenure-track Assistant Professor**（百人计划研究员） in 2025 fall!
 - **May 2025**: We release [R&D-Agent](https://github.com/microsoft/RD-Agent) [![GitHub Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent), which is verified by [OpenAI-MLE-Bench!](https://github.com/openai/mle-bench) as **Best MLE Agent**  ! !
 - **Spring 2025**: Three Papers accepted by KDD 2025, ICLR 2025 and JASA!
@@ -41,8 +41,8 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
   <img src="/images/pubs/SDIFT.png" alt="MarS" style="flex-basis: 33.33%; max-width: 33.33%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
   <div style="flex-basis: 66.67%; max-width: 66.67%;">
     <b>Generating Full-field Evolution of Physical Dynamics from Irregular Sparse Observations</b><br>
-    <span style="font-weight:500;">  Panqi Chen, Yifan Sun, Lei Cheng, Yang Yang, Weichang Li, Yang Liu, Weiqing Liu, Jiang Bian, <b>Shikai Fang</b>  </span><br>
-    <b>NeurIPS 2025</b><br>
+    <span style="font-weight:500;">  Panqi Chen, Yifan Sun, Lei Cheng, Yang Yang, Weichang Li, Yang Liu, Weiqing Liu, Jiang Bian, <b>Shikai Fang†</b>  </span><br>
+    <b>NeurIPS 2025</b>
     <a href="https://arxiv.org/abs/2505.09284">[arXiv]</a>
     <a href="https://github.com/OceanSTARLab/SDIFT">[code]</a>
     <br>
@@ -53,13 +53,13 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
   <img src="/images/pubs/CATTE.png" alt="MarS" style="flex-basis: 33.33%; max-width: 33.33%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
   <div style="flex-basis: 66.67%; max-width: 66.67%;">
-    <b>CATTE:Functional Complexity-adaptive Temporal Tensor Decomposition</b><br>
-    <span style="font-weight:500;">  Panqi Chen, Lei Cheng, Jianlong Li, Weichang Li, Weiqing Liu, Jiang Bian, <b>Shikai Fang</b>  </span><br>
-    <b>NeurIPS 2025</b><br>
+    <b>CATTE :Functional Complexity-adaptive Temporal Tensor Decomposition</b><br>
+    <span style="font-weight:500;">  Panqi Chen, Lei Cheng, Jianlong Li, Weichang Li, Weiqing Liu, Jiang Bian, <b>Shikai Fang†</b>  </span><br>
+    <b>NeurIPS 2025</b>
     <a href="https://arxiv.org/abs/2502.06164">[arXiv]</a>
     <a href="https://github.com/OceanSTARLab/CATTE">[code]</a>
     <br>
-    <i> TL;DR: [Tensor & AI4Phy] Rank-adaptive trajectory learning for physical tensor time series</i>
+    <i> TL;DR: [Tensor & Time Series] Rank-adaptive trajectory learning for physical tensor time series</i>
   </div>
 </div>
 ---

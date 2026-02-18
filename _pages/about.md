@@ -35,7 +35,6 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 - **Sep. 2025**: I will join **Zhejiang University** as a **tenure-track Assistant Professor**（百人计划研究员） in 2025 fall!
 - **May 2025**: We release [R&D-Agent](https://github.com/microsoft/RD-Agent) [![GitHub Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent), which is verified by [OpenAI-MLE-Bench!](https://github.com/openai/mle-bench) as **Best MLE Agent**  ! !
 - **Spring 2025**: Three Papers accepted by KDD 2025, ICLR 2025 and JASA!
-- **May 2024**: I will join **Microsoft Research Asia** as a **Senior Researcher** in 2024 summer!
 
 ## Selected Publications
 <div style="display: flex; align-items: center; margin-bottom: 2em;">

@@ -36,6 +36,12 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 - **May 2025**: We release [R&D-Agent](https://github.com/microsoft/RD-Agent) [![GitHub Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent), which is verified by [OpenAI-MLE-Bench!](https://github.com/openai/mle-bench) as **Best MLE Agent**  ! !
 - **Spring 2025**: Three Papers accepted by KDD 2025, ICLR 2025 and JASA!
 
+## Recent Talks
+- **Apr. 2026**: *LLM-based Auto-evolving Agents for Data-driven R&D*, **Yale University, Lulu Group (Online)**. [slides](/files/flash/talk/2026-04-yale-lulu-llm-agent-slides.pdf)
+- **Oct. 2025**: *Towards Intelligence Driven by Physical-World Signals*, **Huawei**, China. [slides](/files/flash/talk/2025-10-huawei-ai-signal-processing-slides.pdf)
+- **Sep. 2025**: *The Application of Gaussian Processes in Time Series and PDE-solving*, **Renmin University of China**, Beijing, China. [slides](/files/flash/talk/2025-09-ruc-gp-time-series-slides.pdf)
+- **Jul. 2024**: *BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition*, **ICML 2024**, Vienna, Austria. [slides](/files/ICML2024-BayOTIDE_slides_long.pdf)
+
 ## Selected Publications
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
   <img src="/images/pubs/SDIFT.png" alt="MarS" style="flex-basis: 33.33%; max-width: 33.33%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">

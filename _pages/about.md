@@ -19,17 +19,23 @@ I am a tenure-track **Assistant Professor** (百人计划研究员) at **Zhejian
 
 
 ## Industry & Application
-- **AI4Science:**
- I've been involved in several research and start-up projects on AI + medical/bio scenarios. I own two first-author patents in [AIDD (AI for Drug Discovery)](https://www.nature.com/articles/d43747-021-00045-7), which contribute as core patents for a start-up that has raised over $10M+. 
+- **Start-up:**
+ I've been involved in several research and start-up projects on AI + medical/bio scenarios. I own two first-author patents in [AIDD (AI for Drug Discovery)](https://www.nature.com/articles/d43747-021-00045-7), which contribute as core patents for a start-up that has raised over $10M+, and keep interested in building real-world-impact-driven research.
 
 - **AI4Finance:**
-I have quite experiences of AI-based quantitative trading/pricing strategy development during the internship/competition in top hedge fund and investment bank ([Morgan Stanley](www.morganstanley.com), [World Quant](www.worldquant.com) and [UBS](www.ubs.com) etc.). During the Microsoft I'm a core contributor of [MarS](https://github.com/microsoft/MarS/tree/main)[![GitHub Stars](https://img.shields.io/github/stars/microsoft/MarS?style=social)](https://github.com/microsoft/MarS), an open-source financial market simulation engine powered by generative foundation Model.
+I have quite experiences of AI-based quantitative trading/pricing strategy development during the internship/competition in top hedge fund and investment bank ([Morgan Stanley](www.morganstanley.com), [World Quant](www.worldquant.com) and [UBS](www.ubs.com) etc.). During the Microsoft I'm a core contributor of [MarS](https://github.com/microsoft/MarS/tree/main)[![GitHub Stars](https://img.shields.io/github/stars/microsoft/MarS?style=social)](https://github.com/microsoft/MarS), an open-source financial market simulation engine powered by generative foundation Model. Our lab currently maintains closed connections with some top hedge funds.
+
+- **Group Seminar:**
+You are welcome to get detailed info (recordings, slides) of our group seminar at [Here](https://github.com/xuangu-fang/Group-Learning).
 
 - **Others:**
 I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with 15,000 followers on Zhihu (知乎) — Chinese Quora. See my [Zhihu page](https://www.zhihu.com/people/fang-xuan-gu-19).
 
 
+
+
 ## News
+- **May. 2026**: Three Papers accepted by TMLR, KDD 2026 and EUSIPCO 2026!
 - **Jan. 2026**: Three Papers accepted by IEEE TSP, ICLR 2026 and ICASSP 2026!
 - **Sep. 2025**: Two Papers Accepted by NeurIPS 2025! Great Congratulations to my interns: [Panqi](https://ieeexplore.ieee.org/author/291710859546973) and [Yifan](https://scholar.google.com/citations?user=CzI4XVIAAAAJ&hl=zh-CN) to get their first NeurIPS! 
 - **Sep. 2025**: I will join **Zhejiang University** as a **tenure-track Assistant Professor**（百人计划研究员） in 2025 fall!

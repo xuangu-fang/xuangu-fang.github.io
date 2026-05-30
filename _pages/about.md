@@ -35,7 +35,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 
 
 ## News
-- **May. 2026**: Three Papers accepted by TMLR, KDD 2026 and EUSIPCO 2026!
+- **May. 2026**: Four Papers accepted by TMLR, KDD 2026, ACL 2026 and EUSIPCO 2026!
 - **Jan. 2026**: Three Papers accepted by IEEE TSP, ICLR 2026 and ICASSP 2026!
 - **Sep. 2025**: Two Papers Accepted by NeurIPS 2025! Great Congratulations to my interns: [Panqi](https://ieeexplore.ieee.org/author/291710859546973) and [Yifan](https://scholar.google.com/citations?user=CzI4XVIAAAAJ&hl=zh-CN) to get their first NeurIPS! 
 - **Sep. 2025**: I will join **Zhejiang University** as a **tenure-track Assistant Professor**（百人计划研究员） in 2025 fall!
@@ -49,6 +49,19 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 - **Jul. 2024**: *BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition*, **ICML 2024**, Vienna, Austria. [slides](/files/ICML2024-BayOTIDE_slides_long.pdf)
 
 ## Selected Publications
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/Battery-Sim-Agent.png" alt="Battery-Sim-Agent" style="flex-basis: 33.33%; max-width: 33.33%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="flex-basis: 66.67%; max-width: 66.67%;">
+    <b>Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation</b><br>
+    <span style="font-weight:500;"> Jiawei Chen, Xiaofan Gui, <b>Shikai Fang†</b>, Shengyu Tao, Shun Zheng, Weiqing Liu, Jiang Bian</span><br>
+    <b>KDD 2026</b>
+    <a href="https://arxiv.org/abs/2605.29560">[arXiv]</a>
+    <a href="https://github.com/opqrst-chen/Battery-Sim-Agent">[code]</a>
+    <br>
+    <i> TL;DR: [LLM Agent & AI4Phy] Closed-loop LLM agent interprets simulator feedback for physics-grounded inverse battery parameter estimation</i>
+  </div>
+</div>
+---
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
   <img src="/images/pubs/SDIFT.png" alt="MarS" style="flex-basis: 33.33%; max-width: 33.33%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
   <div style="flex-basis: 66.67%; max-width: 66.67%;">

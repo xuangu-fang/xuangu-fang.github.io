@@ -50,15 +50,15 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 
 ## Selected Publications
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
-  <img src="/images/pubs/Battery-Sim-Agent.png" alt="Battery-Sim-Agent" style="flex-basis: 33.33%; max-width: 33.33%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <img src="/images/pubs/Battery-Sim-Agent.png" alt="Battery-Sim-Agent" style="flex-basis: 30%; max-width: 30%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
   <div style="flex-basis: 66.67%; max-width: 66.67%;">
     <b>Battery-Sim-Agent: Leveraging LLM-Agent for Inverse Battery Parameter Estimation</b><br>
-    <span style="font-weight:500;"> Jiawei Chen, Xiaofan Gui, <b>Shikai Fang†</b>, Shengyu Tao, Shun Zheng, Weiqing Liu, Jiang Bian</span><br>
+    <span style="font-weight:500;"> Jiawei Chen, Xiaofan Gui†, <b>Shikai Fang†</b>, Shengyu Tao, Shun Zheng, Weiqing Liu, Jiang Bian</span><br>
     <b>KDD 2026</b>
     <a href="https://arxiv.org/abs/2605.29560">[arXiv]</a>
     <a href="https://github.com/opqrst-chen/Battery-Sim-Agent">[code]</a>
     <br>
-    <i> TL;DR: [LLM Agent & AI4Phy] Closed-loop LLM agent interprets simulator feedback for physics-grounded inverse battery parameter estimation</i>
+    <i> TL;DR: [LLM Agent & AI4Phy] LLM agent & simulator-in-loop for physics-grounded inverse  digital-twin battery building</i>
   </div>
 </div>
 ---

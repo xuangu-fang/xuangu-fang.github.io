@@ -35,13 +35,11 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 
 
 ## News
-- **2026**: Two papers accepted by **NeurIPS 2026**!
+- **Oct. 2026**: Two papers accepted by **NeurIPS 2026**!
 - **May. 2026**: Four Papers accepted by TMLR, KDD 2026, ACL 2026 and EUSIPCO 2026!
 - **Jan. 2026**: Three Papers accepted by IEEE TSP, ICLR 2026 and ICASSP 2026!
 - **Sep. 2025**: Two Papers Accepted by NeurIPS 2025! Great Congratulations to my interns: [Panqi](https://ieeexplore.ieee.org/author/291710859546973) and [Yifan](https://scholar.google.com/citations?user=CzI4XVIAAAAJ&hl=zh-CN) to get their first NeurIPS! 
 - **Sep. 2025**: I will join **Zhejiang University** as a **tenure-track Assistant Professor**（百人计划研究员） in 2025 fall!
-- **May 2025**: We release [R&D-Agent](https://github.com/microsoft/RD-Agent) [![GitHub Stars](https://img.shields.io/github/stars/microsoft/RD-Agent?style=social)](https://github.com/microsoft/RD-Agent), which is verified by [OpenAI-MLE-Bench!](https://github.com/openai/mle-bench) as **Best MLE Agent**  ! !
-- **Spring 2025**: Three Papers accepted by KDD 2025, ICLR 2025 and JASA!
 
 ## Recent Talks
 - **Oct. 2026**: *Self-Evolving Agents for Engineering and Scientific Applications*, Shanghai, China. [slides](/files/flash/talk/2026-10-shanghai-self-evolving-agents-slides.pdf)
@@ -49,16 +47,20 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 - **Apr. 2026**: *LLM-based Auto-evolving Agents for Data-driven R&D*, **Yale University, Lulu Group (Online)**. [slides](/files/flash/talk/2026-04-yale-lulu-llm-agent-slides.pdf)
 - **Oct. 2025**: *Towards Intelligence Driven by Physical-World Signals*, **Huawei**, China. [slides](/files/flash/talk/2025-10-huawei-ai-signal-processing-slides.pdf)
 - **Sep. 2025**: *The Application of Gaussian Processes in Time Series and PDE-solving*, **Renmin University of China**, Beijing, China. [slides](/files/flash/talk/2025-09-ruc-gp-time-series-slides.pdf)
-- **Jul. 2024**: *BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition*, **ICML 2024**, Vienna, Austria. [slides](/files/ICML2024-BayOTIDE_slides_long.pdf)
+
+[View all talks and slides](/all-talks/)
 
 ## Selected Publications
-<div style="margin-bottom: 2em;">
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="/images/pubs/StreamPhy.png" alt="StreamPhy: streaming observations update continuous states to reconstruct a full physical field" style="flex-basis: 30%; max-width: 30%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <div style="flex-basis: 66.67%; max-width: 66.67%;">
   <b>StreamPhy: Streaming Inference of High-Dimensional Physical Dynamics via State Space Models</b><br>
   <span style="font-weight:500;">Panqi Chen, Yifan Sun, <b>Shikai Fang†</b>, Xiao Fu, Lei Cheng†</span><br>
   <b>NeurIPS 2026</b>
   <a href="https://arxiv.org/abs/2605.07384">[arXiv]</a>
   <br>
   <i>TL;DR: [State Space Models &amp; AI4Phy] Efficient streaming reconstruction of continuous physical fields from irregular sparse measurements.</i>
+  </div>
 </div>
 ---
 <div style="display: flex; align-items: center; margin-bottom: 2em;">

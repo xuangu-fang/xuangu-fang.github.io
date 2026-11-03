@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "All Talks"
+permalink: /all-talks/
+author_profile: true
+---
+
+{% assign talks = site.talks | sort: 'date' | reverse %}
+{% for talk in talks %}
+  <h2>{{ talk.title | escape }}</h2>
+  <p><strong>{{ talk.date | date: "%b. %Y" }}</strong> · {{ talk.venue | escape }}{% if talk.location and talk.location != "" %} · {{ talk.location | escape }}{% endif %}</p>
+  {{ talk.content | markdownify }}
+{% endfor %}

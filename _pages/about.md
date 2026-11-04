@@ -52,14 +52,15 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 
 ## Selected Publications
 <div style="display: flex; align-items: center; margin-bottom: 2em;">
-  <img src="/images/pubs/StreamPhy.png" alt="StreamPhy: streaming observations update continuous states to reconstruct a full physical field" style="flex-basis: 30%; max-width: 30%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
+  <img src="/images/pubs/DyPSI.png" alt="DyPSI sensor placement and reconstruction errors compared with random and PhySense placements" style="flex-basis: 30%; max-width: 30%; min-width: 0; margin-right: 25px; border-radius: 10px; box-shadow: 0 4px 12px #999;">
   <div style="flex-basis: 66.67%; max-width: 66.67%;">
-  <b>StreamPhy: Streaming Inference of High-Dimensional Physical Dynamics via State Space Models</b><br>
-  <span style="font-weight:500;">Panqi Chen, Yifan Sun, <b>Shikai Fang†</b>, Xiao Fu, Lei Cheng†</span><br>
-  <b>NeurIPS 2026</b>
-  <a href="https://arxiv.org/abs/2605.07384">[arXiv]</a>
-  <br>
-  <i>TL;DR: [State Space Models &amp; AI4Phy] Efficient streaming reconstruction of continuous physical fields from irregular sparse measurements.</i>
+    <b>DyPSI: Dynamic Physics Sensing via Joint Field and Sensor-Trajectory Generation</b><br>
+    <span style="font-weight:500;">Yizhou Zhang, Panqi Chen, Lei Cheng, Ting Zhang, Jianlong Li, Jianfeng Shi, <b>Shikai Fang†</b></span><br>
+    <b>NeurIPS 2026</b>
+    <a href="/files/DyPSI_CR.pdf">[Paper]</a>
+    <a href="https://github.com/mengqi132/DyPSI">[code]</a>
+    <br>
+    <i>TL;DR: [GenAI &amp; AI4Phy] Joint diffusion generation of physical fields and temporally coherent sensor trajectories for dynamic active sensing.</i>
   </div>
 </div>
 ---

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track **Assistant Professor** (百人计划研究员) at **Zhejiang University**. Prior to that, I was a **Senior Researcher** at **Microsoft Research Asia**. I received my Ph.D. in Computer Science in Summer 2024 from the University of Utah. I earned my B.S. in both Statistics and Computer Science (double degree) from the School of the Gifted Young (少年班学院) at the University of Science and Technology of China (USTC) in 2018, and my Master's in Computer Science from Temple University in 2019.
+I am a tenure-track **Assistant Professor** (百人计划研究员) at **Zhejiang University**. Prior to that, I was a **Senior Researcher** at **Microsoft Research Asia**. I received my Ph.D. in Computer Science in Summer 2024 from the University of Utah. During my Ph.D. studies, I had the honor of being advised by [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/). I earned my B.S. in both Statistics and Computer Science (double degree) from the School of the Gifted Young (少年班学院) at the University of Science and Technology of China (USTC) in 2018, and my Master's in Computer Science from Temple University in 2019.
 
 ## Research Interests
 - **Bayesian Methods and Generative Models**
@@ -35,7 +35,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
 
 
 ## News
-- **Oct. 2026**: Two papers accepted by **NeurIPS 2026**!
+- **Oct. 2026**: Two papers accepted by **NeurIPS 2026**! Congratulations to Panqi and Yizhou!
 - **May. 2026**: Four Papers accepted by TMLR, KDD 2026, ACL 2026 and EUSIPCO 2026!
 - **Jan. 2026**: Three Papers accepted by IEEE TSP, ICLR 2026 and ICASSP 2026!
 - **Sep. 2025**: Two Papers Accepted by NeurIPS 2025! Great Congratulations to my interns: [Panqi](https://ieeexplore.ieee.org/author/291710859546973) and [Yifan](https://scholar.google.com/citations?user=CzI4XVIAAAAJ&hl=zh-CN) to get their first NeurIPS! 

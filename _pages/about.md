@@ -57,6 +57,7 @@ I am a dedicated writer to introduce Bayesian machine learning (in Chinese) with
     <b>DyPSI: Dynamic Physics Sensing via Joint Field and Sensor-Trajectory Generation</b><br>
     <span style="font-weight:500;">Yizhou Zhang, Panqi Chen, Lei Cheng, Ting Zhang, Jianlong Li, Jianfeng Shi, <b>Shikai Fang†</b></span><br>
     <b>NeurIPS 2026</b>
+    <a href="https://arxiv.org/abs/2611.06280">[arXiv]</a>
     <a href="/files/DyPSI_CR.pdf">[Paper]</a>
     <a href="https://github.com/mengqi132/DyPSI">[code]</a>
     <br>
